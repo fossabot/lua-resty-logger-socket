@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcanv15%2Flua-resty-logger-socket.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcanv15%2Flua-resty-logger-socket?ref=badge_shield)
+
 Name
 ====
 
@@ -238,3 +240,7 @@ THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND 
 
 [Back to TOC](#table-of-contents)
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcanv15%2Flua-resty-logger-socket.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcanv15%2Flua-resty-logger-socket?ref=badge_large)
